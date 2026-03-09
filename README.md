@@ -81,11 +81,11 @@ Building a real-world fullstack application to sharpen both backend and frontend
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=samettok0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=samettok0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=samettok0&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=samettok0&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samettok0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samettok0&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
